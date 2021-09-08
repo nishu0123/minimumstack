@@ -31,3 +31,5 @@ int main() {
 	return 0;
 }
 //This is the problem of codechef chellenges sept 2021
+
+//can it be done more optimally.
